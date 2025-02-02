@@ -6,15 +6,9 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube]
-version = "latest"
-included-patches = "'Hide ads' 'Video ads' 'Copy video URL' 'Downloads' 'Custom branding' 'Change header' 'SponsorBlock' 'Theme' 'Bypass image region restrictions' 'Announcements' 'Remove background playback restrictions' 'Check watch history domain name resolution' 'GmsCore support' 'Bypass URL redirects' 'Remove tracking query parameter' 'Spoof video streams'"
-exclusive-patches = true
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+uptodown-dlurl="https://instagram.en.uptodown.com/android"
 patches-source="Aunali321/ReVancedExperiments"
 cli-source="inotia00/revanced-cli"
 patches-version="dev"
