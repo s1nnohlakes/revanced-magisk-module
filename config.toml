@@ -15,4 +15,8 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-version = "latest"
+patches-source="Aunali321/ReVancedExperiments"
+cli-source="inotia00/revanced-cli"
+patches-version="dev"
+rv-brand="InstagramRevancedExp"
+included-patches="'Hide ads' 'Max quality' 'Developer menu'"
